@@ -8,16 +8,6 @@ body {
     margin-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
 
-.header-image {
-    display: block;
-    width: 100%;
-    text-align: center;
-    background: url('http://placehold.it/1900x500') no-repeat center center scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-}
 
 .headline {
     padding: 120px 0;
@@ -25,7 +15,7 @@ body {
 
 .headline h1 {
     font-size: 130px;
-    background: #fff;
+    background: #ffffff;
     background: rgba(255,255,255,0.9);
 }
 

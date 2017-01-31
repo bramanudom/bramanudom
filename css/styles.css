@@ -1,0 +1,17 @@
+/*
+ * Personal Bootstrap overriding CSSS Styles 
+ */
+
+body{
+	background-color: #F1F4EE !important;
+}
+
+.container{
+	background-color: #D1E2E0!important;
+}
+
+.text-muted{
+	color: #B2B089 !important;
+}
+
+

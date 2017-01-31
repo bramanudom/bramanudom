@@ -1582,8 +1582,8 @@ pre code {
   overflow-y: scroll;
 }
 .container {
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: auto;
+  padding-left: auto;
   margin-right: auto;
   margin-left: auto;
 }
@@ -1607,6 +1607,7 @@ pre code {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+  background-color: #ffffff;
 }
 .row {
   margin-right: -15px;
