@@ -7,11 +7,13 @@ body{
 }
 
 .container{
-	background-color: #D1E2E0!important;
+	background-color: #D1E2E0 !important;
 }
 
 .text-muted{
-	color: #B2B089 !important;
+	color: #4D0711 !important;
 }
 
-
+table {
+	margin: 0px auto !important;
+}

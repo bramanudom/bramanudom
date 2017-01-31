@@ -180,6 +180,7 @@ optgroup {
   font-weight: bold;
 }
 table {
+    margin: 0 auto !important;
   border-spacing: 0;
   border-collapse: collapse;
 }
@@ -240,6 +241,7 @@ th {
   }
   .navbar {
     display: none;
+    padding-right: 15px;
   }
   .btn > .caret,
   .dropup > .btn > .caret {
